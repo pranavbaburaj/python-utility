@@ -17,7 +17,7 @@ Output:
 
 
 ## Polygon
-```python:
+```python
 from putility import Polygon as polygon
 
 polygon_object = polygon()
